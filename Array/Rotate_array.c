@@ -52,13 +52,3 @@
 // }
 
 
-#include<stdio.h>
-int main(){
-    printf("\n------------------------Age Prediction------------------------\n");
-    int n;
-    printf("Enter Your age : ");
-    scanf("%d",&n);
-    printf("YOUR AGE IS : %d",n);
-    return 0;
-
-}
